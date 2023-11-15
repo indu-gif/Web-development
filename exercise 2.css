@@ -1,0 +1,14 @@
+div{
+    background-color: yellow;
+    color: red;
+}
+p{
+    background-color: blue;
+}
+p:first-child{
+    color: rgb(238, 5, 102);
+}
+
+p:last-child{
+    color: rgb(247, 244, 244);
+}
